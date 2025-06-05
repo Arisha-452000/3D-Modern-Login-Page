@@ -2,8 +2,6 @@
 
 A beautiful, responsive, and interactive login page with 3D effects, smooth animations, and theme support. This project showcases modern web development techniques with HTML5, CSS3, and vanilla JavaScript.
 
-![Login Page Preview](https://via.placeholder.com/800x500/6c63ff/ffffff?text=3D+Modern+Login+Page)
-
 ## ✨ Features
 
 - **3D Tilt Effect**: Interactive 3D tilt on mouse movement
